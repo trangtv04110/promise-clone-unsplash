@@ -1,0 +1,24 @@
+{
+  "name": "promise-clone-unsplash",
+  "version": "1.0.0",
+  "description": "Use bluebird and Imagick to download img, create thumbs, grayscale img",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trangtv04110/promise-clone-unsplash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trangtv04110/promise-clone-unsplash/issues"
+  },
+  "homepage": "https://github.com/trangtv04110/promise-clone-unsplash#readme",
+  "dependencies": {
+    "bluebird": "^2.9.32",
+    "gm": "^1.18.1",
+    "request": "^2.58.0"
+  }
+}
